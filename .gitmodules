@@ -1,0 +1,15 @@
+[submodule "RUI3-LowPower-HeriSure"]
+	path = RUI3-LowPower-HeriSure
+	url = https://github.com/receronp/RUI3-LowPower-HeriSure.git
+[submodule "HeriSureAR25-FakeIoTHubIntegration"]
+	path = HeriSureAR25-FakeIoTHubIntegration
+	url = https://github.com/receronp/HeriSureAR25-FakeIoTHubIntegration.git
+[submodule "HeriSureAR25-Dashboard"]
+	path = HeriSureAR25-Dashboard
+	url = https://github.com/receronp/HeriSureAR25-Dashboard.git
+[submodule "HeriSureAR25-API"]
+	path = HeriSureAR25-API
+	url = https://github.com/receronp/HeriSureAR25-API.git
+[submodule "HeriSureAR25-AzureFn"]
+	path = HeriSureAR25-AzureFn
+	url = https://github.com/receronp/HeriSureAR25-AzureFn.git

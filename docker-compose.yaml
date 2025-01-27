@@ -1,0 +1,13 @@
+services:
+  frontend:
+    image: receronp/hsar25-dashboard
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_URL=http://api-service:3001
+
+  api-service:
+    image: receronp/hsar25-api
+    hostname: api-service
+    ports:
+      - "3001:3001"
